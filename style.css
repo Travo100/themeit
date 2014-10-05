@@ -1,3 +1,13 @@
+/*Social Icons */
+.social {
+  padding: 5px 0;
+  font-family: "Open Sans", sans-serif;
+}
+.social i {
+  font-size: 1.15em;
+  padding: 0 1px;
+}
+
 /* Navigation Styles */
 .navbar-inverse {
   background: white;
@@ -16,8 +26,10 @@ h1 {
   font-size: 48px;
   text-align: center;
   margin: 100px 0 0 0;
+  font-family: "Oswald", sans-serif;
 }
 
 .lead {
   text-align: center;
+  font-family: "Open Sans", sans-serif;
 }
